@@ -9,9 +9,9 @@ As soon as a match is found it does the assignment of the floating ip.
 
 ## Installation
 
-1. git clone https://github.com/lehuizi/hcloud_assign_ip.git
-2. chmod +x assign-ip.py
-3. mv assign-ip.py /usr/local/bin/assign-ip
+1. `git clone https://github.com/lehuizi/hcloud_assign_ip.git`
+2. `chmod +x assign-ip.py`
+3. `mv assign-ip.py /usr/local/bin/assign-ip`
 
 ## Usage
 
